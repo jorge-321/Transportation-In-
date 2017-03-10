@@ -28,9 +28,9 @@ Students and adults who use public transportation on a daily bases need an effic
   }
 </style>
 
-<h2 class="red-text">CatPhotoApp</h2>
+<h2 class="red-text">Pay N Flow App</h2>
 
-<p>Click here for <a href="#">cat photos</a>.</p>
+<p>Click here for <a href="#">Welcome to new system to pay for public transportation</a>.</p>
 
 <a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
 
