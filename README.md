@@ -30,20 +30,20 @@ Students and adults who use public transportation on a daily bases need an effic
 
 <h2 class="red-text">Pay N Flow App</h2>
 
-<p>Click here for <a href="#">Welcome to new system to pay for public transportation</a>.</p>
+<p>Click here for <a href="#">to Sin Up or Sin In</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://www.innovationportal.org/file/download/389869"></a>
+<a href="#"><img class="smaller-image thick-green-border" alt="Pay N Flow Logo " src="https://www.innovationportal.org/file/download/389869"></a>
 
-<p>Things cats love:</p>
+<p>How to Pay:</p>
 <ul>
-  <li>cat nip</li>
-  <li>laser pointers</li>
-  <li>lasagna</li>
+  <li>Log in</li>
+  <li>Inserting card information </li>
+  <li>Tap N Go!</li>
 </ul>
-<p>Top 3 things cats hate:</p>
+<p>Top 3 things to do:</p>
 <ol>
-  <li>flea treatment</li>
-  <li>thunder</li>
-  <li>other cats</li>
+  <li>build security </li>
+  <li>coustemrs trust</li>
+  <li>facilitating payment</li>
 </ol>
 <input type="text">
