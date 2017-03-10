@@ -32,7 +32,7 @@ Students and adults who use public transportation on a daily bases need an effic
 
 <p>Click here for <a href="#">Welcome to new system to pay for public transportation</a>.</p>
 
-<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="https://bit.ly/fcc-relaxing-cat"></a>
+<a href="#"><img class="smaller-image thick-green-border" alt="A cute orange cat lying on its back. " src="file:///Users/macbookpro/Desktop/Screen%20Shot%202017-01-12%20at%2012.07.51%20PM.png"></a>
 
 <p>Things cats love:</p>
 <ul>
