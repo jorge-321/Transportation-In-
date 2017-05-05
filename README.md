@@ -58,3 +58,19 @@ Students and adults who use public transportation on a daily bases need an effic
   <input type="text" placeholder="cat photo URL" required>
   <button type="submit">Submit</button>
 </form>
+
+//stipe code
+
+const stripe = require('stripe')('sk_test_BQokikJOvBiI2HlWgH4olfQ2');
+
+// Create your first payment from a test card.
+const charge = await stripe.charges.create({
+  amount: 2000,
+  currency: 'usd',
+  source: {
+    number: '4242424242424242',
+    cvc: '123',
+    exp_month: 12,
+    exp_year: 2018
+  }
+});
